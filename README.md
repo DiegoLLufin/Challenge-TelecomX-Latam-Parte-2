@@ -27,8 +27,7 @@ Aplicar técnicas de Machine Learning para predecir si un cliente cancelará el 
    - Comparación con y sin balanceo de clases mediante **SMOTE**.  
 
 4. **Evaluación de modelos**  
-   - Métricas: Accuracy, Precision, Recall, F1 y AUC.  
-   - Curvas ROC comparativas.  
+   - Métricas: Accuracy, Precision, Recall y AUC.   
    - Tabla resumen de resultados.  
 
 5. **Predicciones**  
